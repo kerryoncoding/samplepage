@@ -1,0 +1,24 @@
+
+
+body {
+    display: block;
+    margin: 0 auto;
+    background: white;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+.colors {
+    display: block;
+    margin: 50 auto;
+    color: white;
+    text-align: center;
+}
+
+img {
+    width: 90%;
+}
