@@ -1,24 +1,24 @@
-
-
 body {
-    display: block;
-    margin: 0 auto;
-    background: white;
-}
+    margin: 0;
+    font-family: 'Permanent Marker', cursive;
+  }
 
-h1 {
-    text-align: center;
-    padding-top: 20px;
 
-}
+  .container {
+    position: relative;
+    width: 100%;
+    height: 1500px;
+  }
 
-.colors {
-    display: block;
-    margin: 50 auto;
-    color: white;
-    text-align: center;
-}
-
-img {
-    width: 90%;
-}
+ .image-container {
+    position: relative;
+    width: 100%;
+    height: 1500px;
+    width: 100%;
+    height: 0;
+    padding-top: 45.347%;
+    position: sticky;
+    top: 0;
+    background-size: cover;
+    background-image: url("https://drive.google.com/open?id=1vtaubItASKilyvb5sgQO7D7gjAQ7xo0i");
+  }
