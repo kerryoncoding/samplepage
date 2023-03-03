@@ -30,3 +30,40 @@ html {
     transform: translateX(0);
   }
 }
+
+
+.photo2{
+  animation: myAnim2 1s ease-in-out 0s 1 normal forwards;
+
+
+}
+
+@keyframes myAnim2 {
+  0% {
+    opacity: 0;
+    transform: translateX(-1000px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.photo3{
+  animation: myAnim3 1s ease-in-out 0s 1 normal forwards;
+
+
+}
+
+@keyframes myAnim3 {
+  0% {
+    opacity: 0;
+    transform: translateX(-1500px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
